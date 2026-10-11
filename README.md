@@ -2,7 +2,17 @@
 
 GitHub: wjy2554597743-coder/stickers
 
-标准格式: `![](https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/wjy2554597743-coder/stickers@main/文件名&w=150)`
+### 发送格式
+
+**专属表情包（原图，不缩放）：**
+```
+![](https://cdn.jsdelivr.net/gh/wjy2554597743-coder/stickers@main/文件名)
+```
+
+**通用表情包（缩放到150px）：**
+```
+![](https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/wjy2554597743-coder/stickers@main/文件名&w=150)
+```
 
 ---
 
